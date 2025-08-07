@@ -1,0 +1,214 @@
+[
+  {
+    "question": "What is the role of Northbound APIs in an Open Source SDN architecture?",
+    "type": "MCQ",
+    "options": [
+      "A. They enable communication between the SDN controller and network devices.",
+      "B. They provide a global view of the network.",
+      "C. They allow communication between the SDN controller and applications or network services.",
+      "D. They ensure the security of data transmitted over the network."
+    ],
+    "answer": "C. They allow communication between the SDN controller and applications or network services.",
+    "citation": "Page 1, Line 10-13"
+  },
+  {
+    "question": "Which of the following components is responsible for managing network traffic in an SDN architecture?",
+    "type": "MCQ",
+    "options": [
+      "A. Northbound APIs",
+      "B. Southbound APIs",
+      "C. SDN Controllers",
+      "D. OpenFlow switches"
+    ],
+    "answer": "C. SDN Controllers",
+    "citation": "Page 1, Line 13"
+  },
+  {
+    "question": "What role does OpenFlow play in the context of Software-Defined Networking (SDN)?",
+    "type": "MCQ",
+    "options": [
+      "A. A SDN controller",
+      "B. A southbound API protocol",
+      "C. A network application",
+      "D. A type of firewall"
+    ],
+    "answer": "B. A southbound API protocol",
+    "citation": "Page 1, Line 45"
+  },
+  {
+    "question": "Which of the following components is NOT considered a key part of an open source SDN architecture?",
+    "type": "MCQ",
+    "options": [
+      "A. Southbound APIs",
+      "B. SDN Controllers",
+      "C. Web Browsers",
+      "D. Northbound APIs"
+    ],
+    "answer": "C. Web Browsers",
+    "citation": "Page 1, Lines 22-38"
+  },
+  {
+    "question": "What role does OpenFlow play in an SDN architecture?",
+    "type": "MCQ",
+    "options": [
+      "A. It is a type of SDN controller.",
+      "B. It is a protocol that provides an open interface for programming the forwarding plane of switches and routers.",
+      "C. It is a network virtualization platform.",
+      "D. It is used solely for network security."
+    ],
+    "answer": "B. It is a protocol that provides an open interface for programming the forwarding plane of switches and routers.",
+    "citation": "Page 1, Lines 75-76"
+  },
+  {
+    "question": "What is the primary role of SDN controllers in an open source SDN architecture?",
+    "type": "MCQ",
+    "options": [
+      "A. They store all data traffic within the network.",
+      "B. They act as the central management unit, providing a global view of the network and making traffic flow decisions.",
+      "C. They only communicate with end-user devices.",
+      "D. They are responsible for hardware maintenance and upgrades."
+    ],
+    "answer": "B. They act as the central management unit, providing a global view of the network and making traffic flow decisions.",
+    "citation": "Page 1, Lines 8-9"
+  },
+  {
+    "question": "What role do Southbound APIs, such as OpenFlow, play in an open source SDN architecture?",
+    "type": "MCQ",
+    "options": [
+      "A. They enable communication between applications and network services.",
+      "B. They provide an interface for programming the forwarding plane of switches and routers.",
+      "C. They manage the security policies of the network.",
+      "D. They facilitate the collaboration between developers in open source projects."
+    ],
+    "answer": "B. They provide an interface for programming the forwarding plane of switches and routers.",
+    "citation": "Page 1, Line 9"
+  },
+  {
+    "question": "Which of the following accurately describes the role of Southbound APIs in an open source SDN architecture?",
+    "type": "MCQ",
+    "options": [
+      "A. They enable communication between applications and the SDN controller.",
+      "B. They allow network devices to communicate with the physical layer.",
+      "C. They facilitate communication between the SDN controller and physical or virtual network devices.",
+      "D. They provide standardized protocols for network virtualization."
+    ],
+    "answer": "C. They facilitate communication between the SDN controller and physical or virtual network devices.",
+    "citation": "Page 1, Lines 9-11"
+  },
+  {
+    "question": "What is the primary role of Southbound APIs in an open source SDN architecture?",
+    "type": "MCQ",
+    "options": [
+      "A. To enable communication between the SDN controller and applications",
+      "B. To allow for dynamic load balancing",
+      "C. To facilitate communication between the SDN controller and network devices",
+      "D. To manage security policies in the network"
+    ],
+    "answer": "C. To facilitate communication between the SDN controller and network devices",
+    "citation": "Page 1, Line 24"
+  },
+  {
+    "question": "Which of the following is a primary benefit of open source in the context of Software-Defined Networking (SDN)?",
+    "type": "MCQ",
+    "options": [
+      "A. Increased vendor lock-in",
+      "B. Faster innovation and collaboration",
+      "C. Proprietary solutions only",
+      "D. Higher licensing costs"
+    ],
+    "answer": "B. Faster innovation and collaboration",
+    "citation": "Page 1, Line 4-5"
+  },
+  {
+    "question": "What is one major benefit of open source in the context of Software-Defined Networking (SDN)?",
+    "type": "MCQ",
+    "options": [
+      "A. Increased security through proprietary technology",
+      "B. Limited customization options for users",
+      "C. Enhanced innovation and collaboration within communities",
+      "D. Higher costs associated with licensing"
+    ],
+    "answer": "C. Enhanced innovation and collaboration within communities",
+    "citation": "Page 1, Line 11"
+  },
+  {
+    "question": "What is OpenFlow primarily used for in the context of Software-Defined Networking (SDN)?",
+    "type": "MCQ",
+    "options": [
+      "A. Managing network applications",
+      "B. Programming the forwarding plane of switches and routers",
+      "C. Serving as a firewall interface",
+      "D. Providing user authentication protocols"
+    ],
+    "answer": "B. Programming the forwarding plane of switches and routers",
+    "citation": "Page 1, Line 34"
+  },
+  {
+    "question": "Which of the following is NOT a component of an open source SDN architecture?",
+    "type": "MCQ",
+    "options": [
+      "A. Southbound APIs",
+      "B. SDN Controllers",
+      "C. Application Layer Protocols",
+      "D. Northbound APIs"
+    ],
+    "answer": "C. Application Layer Protocols",
+    "citation": "Page 1, Line 21"
+  },
+  {
+    "question": "What is the primary function of Northbound APIs in an SDN architecture?",
+    "type": "MCQ",
+    "options": [
+      "A. They provide communication between the SDN controller and network devices.",
+      "B. They enable communication between the SDN controller and applications or higher-level network functions.",
+      "C. They manage traffic routing within the data plane.",
+      "D. They encode security policies for the SDN controller."
+    ],
+    "answer": "B. They enable communication between the SDN controller and applications or higher-level network functions.",
+    "citation": "Page 1, Line 9"
+  },
+  {
+    "question": "Which of the following components is NOT typically found in an open source SDN architecture?",
+    "type": "MCQ",
+    "options": [
+      "A. Southbound APIs",
+      "B. SDN Controllers",
+      "C. Network Routers",
+      "D. Northbound APIs"
+    ],
+    "answer": "C. Network Routers",
+    "citation": "Page 1, Lines 4-12"
+  },
+  {
+    "question": "What are the three major components of an open source SDN architecture?",
+    "type": "SAQ",
+    "options": [],
+    "answer": "Southbound APIs, SDN Controllers, Northbound APIs",
+    "citation": "Page 1, Lines 9-15"
+  },
+  {
+    "question": "What are the three major components of an open source SDN architecture?",
+    "type": "SAQ",
+    "answer": "Southbound APIs, SDN Controllers, Northbound APIs",
+    "citation": "Page 1, Lines 6-11"
+  },
+  {
+    "question": "What role does the SDN controller play in an open source SDN architecture?",
+    "type": "SAQ",
+    "answer": "The SDN controller acts as the central management unit, providing a global view of the network and making decisions about how traffic should flow.",
+    "citation": "Page 1, Line 18-19"
+  },
+  {
+    "question": "What are the three main components of an open source SDN architecture?",
+    "type": "SAQ",
+    "answer": "The three main components of an open source SDN architecture are Southbound APIs, SDN Controllers, and Northbound APIs.",
+    "citation": "Page 1, Lines 3-4"
+  },
+  {
+    "question": "What are the three major components of an open source SDN architecture?",
+    "type": "SAQ",
+    "options": [],
+    "answer": "Southbound APIs, SDN Controllers, Northbound APIs",
+    "citation": "Page 1, Lines 5-6"
+  }
+]
